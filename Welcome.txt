@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello. Welcome to GEC Gaya Training of Full Stack Development.This training is for 3rd and 5th sem student.jujwjsssk
+=======
+Hello. Welcome to GEC Gaya Training.
+>>>>>>> 369451b88e8e17f8bf41a803464bf0485adfacc8
